@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/Dhams971/core.git
+[submodule "coreUI"]
+	path = coreUI
+	url = https://github.com/Dhams971/coreUI.git
